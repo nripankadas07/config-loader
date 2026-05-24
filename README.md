@@ -1,7 +1,5 @@
 # config-loader
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
 
 Type-safe configuration loader for Node.js applications. Load config from environment variables, JSON files, and YAML files with schema validation, defaults, and deep merging.
 
@@ -18,7 +16,7 @@ Type-safe configuration loader for Node.js applications. Load config from enviro
 ## Installation
 
 ```bash
-npm install config-loader
+npm install && npm run build
 ```
 
 ## Quick Start
